@@ -1,0 +1,242 @@
+/*
+* @Author: Sing-V
+* @Date:   2018-04-22 15:23:17
+* @Last Modified by:   Sing-V
+* @Last Modified time: 2018-05-05 00:42:29
+*/
+/*通用选择器：选择所有的元素*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	/*清楚a链接下划线*/
+}
+img{
+	display: block;/*图片转换成块元素*/
+}
+body{
+	background-color: #F5F5F5;
+}
+.phone{
+	width: 1226px;
+	height: 672px;
+	margin: 0 auto;
+}
+.title{
+	width: 100%;
+	height: 58px;
+	font-size: 22px;
+	color: #333;
+	text-align: left;
+	line-height: 58px;
+}
+.title a{
+	color: #333;
+}
+.title  h2{
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 58px;
+    color: #333;
+	float: left;
+}
+.title .more{
+	width: 260px;
+	height: 58px;
+	font-size: 16px;
+	line-height: 58px;
+	color: #424242;
+	text-align: right;
+	float: right;
+}
+.con .box{
+	width: 234px;
+	height: 300px;
+	background: #FFFFFF;
+	float: left;
+	margin-left: 14px;
+	margin-bottom: 14px;
+	text-align: center;
+}
+.con .box1{
+	width: 234px;
+	height: 614px;
+	margin-left: 0px;
+	margin-bottom: 0;
+}
+.con .box2{
+	width: 234px;
+	height: 300px;
+	background: #FEFEFE;
+	margin-left: 14px;
+	margin-bottom: 14px;
+}
+.con .box a .imgBox{
+	margin: 0 auto;
+	margin-top: 14px;
+}
+.con .box a h3{
+	margin-top: 14px;
+	font-size: 14px;
+    font-weight: 400;
+    color:#333;
+}
+.con .box h4{
+    margin: 0 10px 10px;
+    height: 18px;
+    margin-top: 10px;
+    font-size: 8px;
+    text-align: center;
+    color:  #B0B0B0;
+}
+.con .box h5{
+	font-size: 15px;
+	margin: 5px 10px 10px;
+	margin-top: 18px;
+    text-align: center;
+    color: #ff6700;
+}
+
+.jiaCeng{
+	width: 1349px;
+	height: 120px;
+	margin: 0 auto;
+	margin-top: 33px;
+	margin-bottom: 20px;
+}
+.jiaCeng img{
+	margin: 0 auto;
+	margin-top: 33px;
+	margin-bottom: 20px;
+}
+
+.appliances{
+	width: 1226px;
+	height: 672px;
+	margin: 0 auto;
+} 
+
+.con .box0{
+	margin-left: 0;
+}
+.con .box a .imgBox1{
+	margin: 0 auto;
+	margin-top: 0;
+}
+.con .box3{
+	width: 234px;
+	height: 143px;
+	margin-left: 14px;
+	margin-bottom: 14px;
+}
+.con .box3 a {
+	display: block;
+	float: right;
+	margin-right: 23px;
+	margin-top: 14px;
+	color: #757575;
+}
+
+.con .box3 h3{
+	display: block;
+	float: left;
+	margin-top: 42px;
+	margin-left: 24px;
+	font-size: 14px;
+	color: #333;
+}
+.con .box3 h4{
+	display: block;
+	float: left;
+	margin-left: 30px;
+	font-size: 14px;
+	color: #ff6700;
+}
+.con .box3 h5 a{
+	display: block;
+	float: left;
+	margin-top: 30px;
+	margin-left: 22px;
+	font-size: 18px;
+	color: #333;
+}
+.con .box3 h6{
+	display: block;
+	float: left;
+	margin-top: 14px;
+	margin-left: 33px;
+	font-size: 14px;
+	color: #757575;
+}
+
+.intelligence{
+	width: 1226px;
+	height: 672px;
+	margin: 0 auto;
+} 
+.collocation{
+	width: 1226px;
+	height: 672px;
+	margin: 0 auto;
+} 
+
+.tuiJian{
+	width: 1226px;
+	height: 372px;
+	margin: 0 auto;
+}
+.tuiJian .box4{
+	margin-left: 0;
+}
+.rePing{
+	width: 1226px;
+	height: 430px;
+	margin: 0 auto;
+
+}
+.rePing .box5{
+	width: 296px;
+	height: 415px;
+}
+.rePing .box6{
+	margin-left: 0;
+}
+.rePing .box5 a .imgBox{
+	width: 100%;
+	height: 220px;
+	margin-top: 0px;
+}
+.rePing .box6 a .imgBox{
+	width: 100%;
+	height: 220px;
+}
+.rePing a h6{
+	margin-top: 30px;
+	font-size: 14px;
+	font-weight: 100;
+	text-align: left;
+	margin-left: 14px;
+	color: #333;
+}
+.rePing .box5 h8{
+	font-size: 15px;
+	margin: 5px 10px 10px;
+	margin-top: 18px;
+    text-align: center;
+    float: left;
+    color: #ff6700;
+}
+.rePing h7{
+	width: 296px;
+	height: 18px;
+	font-size: 12px;
+	float: left;
+	text-align: left;
+	margin-left: 14px;
+	margin-top: 14px;
+	font-weight: 100;
+	color: #b0b0b0;
+}
